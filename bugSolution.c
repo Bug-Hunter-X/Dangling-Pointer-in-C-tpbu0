@@ -1,0 +1,1 @@
+int main() { int x = 10; int *ptr = malloc(sizeof(int)); *ptr = 20; printf("%d\n", *ptr); free(ptr); ptr = NULL; return 0; }
