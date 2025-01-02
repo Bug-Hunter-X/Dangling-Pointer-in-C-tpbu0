@@ -1,0 +1,1 @@
+This repository demonstrates a common C programming error: the dangling pointer. The 'bug.c' file contains code that exhibits this error.  The 'bugSolution.c' file provides a corrected version.
